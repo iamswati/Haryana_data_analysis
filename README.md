@@ -1,4 +1,4 @@
-# HARYANA DATA ANALYSIS📈📊
+# HARYANA DATA ANALYSIS📈📊 [View](https://iamswati.github.io/Haryana_data_analysis/)
 
 ## Haryana - EDA
 
